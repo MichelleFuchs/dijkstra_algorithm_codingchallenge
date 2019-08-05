@@ -1,4 +1,7 @@
 # Dijkstra Algorithm in Javascript 
+
+Addendum: Thanks to the 3rd place :)
+
 ## solving a given problem
 
 This is the solution of a coding challenge for finding the shortest path between the given start and end point in a given graph (generatedGraph.json).
